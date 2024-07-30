@@ -1,2 +1,2 @@
 # Java
-This repository has question of DSA in Java.
+This repository has questions of DSA in Java.
